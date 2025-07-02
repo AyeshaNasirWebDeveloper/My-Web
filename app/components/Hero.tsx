@@ -157,11 +157,11 @@ const floatingVariants: Variants = {
               {/* Main image container */}
               <div className="relative rounded-xl overflow-hidden border border-gray-700/50 bg-gradient-to-br from-gray-800 to-gray-900/80 backdrop-blur-sm">
                 <div className="absolute inset-0 [mask-image:linear-gradient(to_bottom,white_30%,transparent)]">
-                  <div className="absolute inset-0 bg-[url('/images/grid-pattern.svg')] opacity-[3%]"></div>
+                  <div className="absolute inset-0 bg-[url('/grid-pattern.svg')] opacity-[3%]"></div>
                 </div>
                 
                 <Image
-                  src="/images/profile.png"
+                  src="/profile.png"
                   alt="Profile"
                   width={500}
                   height={500}

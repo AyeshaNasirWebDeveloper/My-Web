@@ -9,7 +9,7 @@ const projects = [
     description:
       "Revolutionary AI chatbot that delivers instant, intelligent customer support with seamless order tracking integration",
     tags: ["Next.js","Open AI", "Python", "Fast Api", "Tailwind CSS"],
-    image: "/images/AI Support Agent.png",
+    image: "/AI Support Agent.png",
     link: "https://ai-support-agent.vercel.app/",
   },
   {
@@ -17,7 +17,7 @@ const projects = [
     description:
       "High-conversion marketing platform with stunning visuals and seamless user journeys",
     tags: ["Next.js", "Tailwind CSS", "Framer Motion", "TypeScript"],
-    image: "/images/Mareting Web.png",
+    image: "/Mareting Web.png",
     link: "https://marketing-web-alpha.vercel.app/",
   },
   {
@@ -25,7 +25,7 @@ const projects = [
     description:
       "Immersive e-commerce experience with dynamic product showcases and lightning-fast performance",
     tags: ["Next.js", "Tailwind CSS", "Sanity"],
-    image: "/images/nike web.png",
+    image: "/nike web.png",
     link: "https://nike-e-com.vercel.app/",
   },
    {
@@ -33,7 +33,7 @@ const projects = [
     description:
       "Full-stack online marketplace featuring secure payments, real-time inventory, and intuitive shopping experience",
     tags: ["React", "Bootstrap", "JavaScript", "Node.js", "Express.js", "MongoDB", "React Icons"],
-    image: "/images/ECOM.png",
+    image: "/ECOM.png",
     link: "https://ecom-web-fronte.vercel.app/",
   },
   {
@@ -41,7 +41,7 @@ const projects = [
     description:
       "Crystal-clear video conferencing solution with one-click joining and military-grade encryption",
     tags: ["Vite", "Tailwind CSS", "Zego Cloud SDK"],
-    image: "/images/video call.png",
+    image: "/video call.png",
     link: "https://video-calling-app-amber.vercel.app/",
   },
   {
@@ -49,7 +49,7 @@ const projects = [
     description:
       "Intuitive task manager with drag-and-drop functionality and team collaboration features",
     tags: ["React", "Firebase", "Material UI", "Redux"],
-    image: "/images/taskzen.png",
+    image: "/taskzen.png",
     link: "https://management-system-one.vercel.app/",
   },
   {
@@ -57,7 +57,7 @@ const projects = [
     description:
       "Showcase portfolio featuring smooth animations and responsive design",
     tags: ["HTML", "CSS", "JavaScript"],
-    image: "/images/portfoli.png",
+    image: "/portfoli.png",
     link: "https://portfolio-ayeshanasirwebdevelopers-projects.vercel.app/",
   },
   {
@@ -65,7 +65,7 @@ const projects = [
     description:
       "Engaging content hub with rich text editing and real-time commenting",
     tags: ["HTML", "CSS", "JavaScript", "Bootstrap", "Firebase"],
-    image: "/images/blog web.png",
+    image: "/blog web.png",
     link: "https://ayeshanasirwebdeveloper.github.io/Blog-Heckathon/",
   },
     {
@@ -73,7 +73,7 @@ const projects = [
     description:
       "Smart medication tracker with dosage reminders and health analytics",
     tags: ["Python", "Streamlit", "JSON"],
-    image: "/images/medicine.png",
+    image: "/medicine.png",
     link: "https://medicinereminderbuddy.streamlit.app/",
   },
   {
@@ -81,7 +81,7 @@ const projects = [
     description:
       "AI-powered resume creator with professional templates and PDF export",
     tags: ["HTML", "CSS", "JavaScript"],
-    image: "/images/resume.png",
+    image: "/resume.png",
     link: "https://ayeshanasirwebdeveloper.github.io/Resume-Builder/",
   },
   {
@@ -89,7 +89,7 @@ const projects = [
     description:
       "Powerful data cleaning tool with visualization and multi-format export",
     tags: ["Python", "Streamlit", "Pandas", "plotly"],
-    image: "/images/data sweep.png",
+    image: "/data sweep.png",
     link: "https://moderndatasweeper.streamlit.app/",
   },
   {
@@ -97,7 +97,7 @@ const projects = [
     description:
       "Elegant dining website with menu animations and reservation system",
     tags: ["React.js", "Tailwind CSS"],
-    image: "/images/Restaurant.png",
+    image: "/Restaurant.png",
     link: "https://restaurant-react-app-blush.vercel.app/",
   },
   {
@@ -105,7 +105,7 @@ const projects = [
     description:
       "Interactive quiz platform with adaptive difficulty and score tracking",
     tags: ["Next JS", "TypeScript", "Tailwind CSS"],
-    image: "/images/next quiz.png",
+    image: "/next quiz.png",
     link: "https://next-js-quiz-app-navy.vercel.app/",
   },
   {
@@ -113,7 +113,7 @@ const projects = [
     description:
       "Enterprise-grade link management with analytics and custom domains",
     tags: ["Mongo DB", "Express JS", "React JS", "Node JS"],
-    image: "/images/URL Short.png",
+    image: "/URL Short.png",
     link: "https://url-shortner-lyart-six.vercel.app/",
   },
   {
@@ -121,7 +121,7 @@ const projects = [
     description:
       "World clock solution for remote teams and international travelers",
     tags: ["Streamlit", "Python", "UV"],
-    image: "/images/time.png",
+    image: "/time.png",
     link: "https://timezones.streamlit.app/",
   },
   {
@@ -129,7 +129,7 @@ const projects = [
     description:
       "Military-grade encryption for sensitive personal and business data",
     tags: ["Python", "Streamlit", "Cryptography"],
-    image: "/images/encryption.png",
+    image: "/encryption.png",
     link: "https://modernsecuredataencryption.streamlit.app/",
   },
   {
@@ -137,7 +137,7 @@ const projects = [
     description:
       "Luxury clothing showcase with 3D product views and virtual try-on",
     tags: ["Next JS", "TypeScript", "Tailwind CSS", "Framer Motion"],
-    image: "/images/women.png",
+    image: "/women.png",
     link: "https://women-web-orcin.vercel.app/",
   },
   {
@@ -145,7 +145,7 @@ const projects = [
     description:
       "Ultra-secure password creator with strength metrics and clipboard protection",
     tags: ["Streamlit", "Python", "UV", "Pyperclip"],
-    image: "/images/pass.png",
+    image: "/pass.png",
     link: "https://women-web-orcin.vercel.app/",
   },
   {
@@ -153,7 +153,7 @@ const projects = [
     description:
       "Interactive financial inspiration tool with business ideas and motivation",
     tags: ["Python", "Fastapi", "UV", "Streamlit"],
-    image: "/images/money.png",
+    image: "/money.png",
     link: "https://moneymakingmachine.streamlit.app/",
   },
   {
@@ -161,7 +161,7 @@ const projects = [
     description:
       "Universal measurement converter with dark mode and calculation history",
     tags: ["Python", "Streamlit", "Cryptography"],
-    image: "/images/unit convert.png",
+    image: "/unit convert.png",
     link: "https://modernunitconverter.streamlit.app/",
   },
   {
@@ -169,7 +169,7 @@ const projects = [
     description:
       "Emotional wellness journal with trend analysis and reflection prompts",
     tags: ["Streamlit", "Python", "UV", "Pandas", "CSV"],
-    image: "/images/mood.png",
+    image: "/mood.png",
     link: "https://modernmoodtracker.streamlit.app/",
   },
   {
@@ -177,7 +177,7 @@ const projects = [
     description:
       "Engaging trivia game with instant feedback and progress tracking",
     tags: ["Python", "UV", "Streamlit"],
-    image: "/images/quiz.png",
+    image: "/quiz.png",
     link: "https://modernquizapp.streamlit.app/",
   },
   {
@@ -185,7 +185,7 @@ const projects = [
     description:
       "Sleek calculator with scientific functions and memory storage",
     tags: ["Python", "UV", "Streamlit"],
-    image: "/images/cal.png",
+    image: "/cal.png",
     link: "https://modernsimplecalculator.streamlit.app/",
   },
   {
@@ -193,7 +193,7 @@ const projects = [
     description:
       "Digital library manager with reading stats and collection insights",
     tags: ["UV", "Python", "Streamlit", "JSON"],
-    image: "/images/library.png",
+    image: "/library.png",
     link: "https://modernpersonallibrarymanager.streamlit.app/",
   },
   {
@@ -201,7 +201,7 @@ const projects = [
     description:
       "Minimalist productivity app with smart scheduling and completion tracking",
     tags: ["HTML", "CSS", "JavaScript", "Bootstrap"],
-    image: "/images/to do.png",
+    image: "/to do.png",
     link: "https://legendary-bunny-8fabbf.netlify.app/",
   },
   {
@@ -209,7 +209,7 @@ const projects = [
     description:
       "Advanced password generator with strength analysis and secure sharing",
     tags: ["HTML", "CSS", "JavaScript", "Bootstrap"],
-    image: "/images/password.png",
+    image: "/password.png",
     link: "https://ayeshanasirwebdeveloper.github.io/Password-Generator/",
   },
   {
@@ -217,7 +217,7 @@ const projects = [
     description:
       "Visual storytelling platform with fullscreen mode and tagging system",
     tags: ["HTML", "CSS", "JavaScript", "Bootstrap"],
-    image: "/images/gallery.png",
+    image: "/gallery.png",
     link: "https://bejewelled-conkies-9e080e.netlify.app/",
   },
   {
@@ -225,7 +225,7 @@ const projects = [
     description:
       "Comprehensive fasting companion with prayer times and spiritual resources",
     tags: ["HTML", "CSS", "JavaScript", "Bootstrap"],
-    image: "/images/ramadan.png",
+    image: "/ramadan.png",
     link: "https://classy-boba-470699.netlify.app/",
   },
   {
@@ -233,7 +233,7 @@ const projects = [
     description:
       "Challenging vocabulary builder with adaptive learning algorithm",
     tags: ["HTML", "CSS", "JavaScript", "Bootstrap"],
-    image: "/images/guessing game.png",
+    image: "/guessing game.png",
     link: "https://extraordinary-nougat-3b3b27.netlify.app/",
   },
   {
@@ -241,7 +241,7 @@ const projects = [
     description:
       "Dynamic input system with conditional logic and auto-validation",
     tags: ["HTML", "CSS", "JavaScript"],
-    image: "/images/form.png",
+    image: "/form.png",
     link: "https://ayeshanasirwebdeveloper.github.io/Register-Toggle/",
   },
   {
@@ -249,7 +249,7 @@ const projects = [
     description:
       "Conversational assistant with natural language processing",
     tags: ["HTML", "CSS", "Bootstrap", "JavaScript"],
-    image: "/images/ai chat.png",
+    image: "/ai chat.png",
     link: "https://ornate-lolly-015289.netlify.app/",
   },
   {
@@ -257,7 +257,7 @@ const projects = [
     description:
       "Intelligent scheduling system with event reminders and sharing",
     tags: ["HTML", "CSS", "Bootstrap", "JavaScript"],
-    image: "/images/calendar.png",
+    image: "/calendar.png",
     link: "https://darling-sunflower-aa4ec9.netlify.app/",
   }
 ];

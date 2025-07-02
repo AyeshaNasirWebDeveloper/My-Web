@@ -1,7 +1,7 @@
 # ✨ Portfolio Project
 
 <p align="center">
-  <img src="./public/images/portfolio.PNG" alt="Portfolio Preview" width="800" style="border-radius: 16px; border: 1px solid #2e2e2e; box-shadow: 0 10px 30px rgba(139, 92, 246, 0.2)"/>
+  <img src="./public/portfolio.PNG" alt="Portfolio Preview" width="800" style="border-radius: 16px; border: 1px solid #2e2e2e; box-shadow: 0 10px 30px rgba(139, 92, 246, 0.2)"/>
 </p>
 
 ## 🌟 Features
