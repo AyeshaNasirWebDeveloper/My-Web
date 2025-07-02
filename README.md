@@ -1,7 +1,7 @@
 # ✨ Portfolio Project | [Ayesha Nasir]
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-id/portfolio-preview.jpg" alt="Portfolio Preview" width="800" style="border-radius: 16px; border: 1px solid #2e2e2e; box-shadow: 0 10px 30px rgba(139, 92, 246, 0.2)"/>
+  <img src="/images/portfolio.jpg" alt="Portfolio Preview" width="800" style="border-radius: 16px; border: 1px solid #2e2e2e; box-shadow: 0 10px 30px rgba(139, 92, 246, 0.2)"/>
 </p>
 
 ## 🌟 Features
@@ -31,10 +31,6 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
       <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=framer" width="48" height="48" alt="Framer Motion" />
-      <br>Framer Motion
     </td>
   </tr>
   <tr>
